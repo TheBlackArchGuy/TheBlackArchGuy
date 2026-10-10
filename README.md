@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Mian Sudais, cybersecurity student, bug bounty, Linux ricer" width="100%"/>
+<a><img src="assets/header.svg" alt="Mian Sudais, cybersecurity student, bug bounty, Linux ricer" width="100%"/></a>
 
 <br/>
 
@@ -9,11 +9,11 @@
 
 <br/><br/>
 
-<img src="assets/about.svg" alt="fastfetch style about me" width="100%"/>
+<a><img src="assets/about.svg" alt="fastfetch style about me" width="100%"/></a>
 
 <br/>
 
-<img src="assets/stack.svg" alt="Tech stack" width="100%"/>
+<a><img src="assets/stack.svg" alt="Tech stack" width="100%"/></a>
 
 <br/>
 
@@ -23,7 +23,7 @@
       <a href="https://github.com/TheBlackArchGuy/Native-Hyprland-Dotfiles"><img src="assets/card-rice.svg" alt="Native-Hyprland-Dotfiles" width="100%"/></a>
     </td>
     <td width="50%" align="center">
-      <img src="assets/card-aegis.svg" alt="BountyScope + AEGIS" width="100%"/>
+      <a><img src="assets/card-aegis.svg" alt="BountyScope + AEGIS" width="100%"/></a>
     </td>
   </tr>
   <tr>
@@ -38,6 +38,6 @@
 
 <br/>
 
-<img src="assets/footer.svg" alt="" width="100%"/>
+<a><img src="assets/footer.svg" alt="" width="100%"/></a>
 
 </div>
